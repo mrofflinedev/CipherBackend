@@ -1,0 +1,4 @@
+myvenv/
+*pyache*/
+db.sqlite3
+*.pyc
